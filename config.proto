@@ -142,6 +142,7 @@ enum GameModeId {
   MODE_CUSTOM = 7;
   // Built-in Rivals of Aether 2 mode.
   MODE_RIVALS_2 = 8;
+  MODE_HOLLOW_KNIGHT = 9;
 }
 
 /**
