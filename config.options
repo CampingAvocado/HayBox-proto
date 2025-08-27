@@ -28,7 +28,7 @@ ButtonToColorMapping.button int_size:IS_8
 
 GameModeConfig.mode_id int_size:IS_8
 GameModeConfig.name max_length:17
-GameModeConfig.socd_pairs max_count:10
+GameModeConfig.socd_pairs max_count:20
 GameModeConfig.button_remapping max_count:60
 GameModeConfig.activation_binding max_count:4
 GameModeConfig.keyboard_mode_config int_size:IS_8
@@ -78,4 +78,5 @@ ModifierCombinationMode long_names:false
 SocdType long_names:false
 GameModeId long_names:false
 CommunicationBackendId long_names:false
+
 RgbAnimationId long_names:false
